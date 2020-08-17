@@ -1,0 +1,9 @@
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\bin\Debug\netcoreapp3.1\ToDo.Entity.deps.json
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\bin\Debug\netcoreapp3.1\ToDo.Entity.dll
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\bin\Debug\netcoreapp3.1\ToDo.Entity.pdb
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\obj\Debug\netcoreapp3.1\ToDo.Entity.csprojAssemblyReference.cache
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\obj\Debug\netcoreapp3.1\ToDo.Entity.csproj.CoreCompileInputs.cache
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\obj\Debug\netcoreapp3.1\ToDo.Entity.AssemblyInfoInputs.cache
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\obj\Debug\netcoreapp3.1\ToDo.Entity.AssemblyInfo.cs
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\obj\Debug\netcoreapp3.1\ToDo.Entity.dll
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Entity\obj\Debug\netcoreapp3.1\ToDo.Entity.pdb

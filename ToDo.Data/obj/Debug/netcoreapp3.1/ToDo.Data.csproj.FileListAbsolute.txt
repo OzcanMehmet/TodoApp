@@ -1,0 +1,15 @@
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.csprojAssemblyReference.cache
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.csproj.CoreCompileInputs.cache
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.AssemblyInfoInputs.cache
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.AssemblyInfo.cs
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Data.deps.json
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Data.dll
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Entity.dll
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Entity.pdb
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.csproj.CopyComplete
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Data.runtimeconfig.json
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Data.runtimeconfig.dev.json
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\bin\Debug\netcoreapp3.1\ToDo.Data.pdb
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.dll
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.pdb
+C:\Users\meozcan\source\repos\ToDoApp\ToDo.Data\obj\Debug\netcoreapp3.1\ToDo.Data.genruntimeconfig.cache
